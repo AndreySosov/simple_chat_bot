@@ -1,10 +1,10 @@
 # simple_chat_bot
 Фалы  
 
-[+] firstAid.json – The data file which has predefined patterns and responses. Файл с паттернами и ответами  
+[+] firstAid.json – Файл с паттернами и ответами  
 [+] FirstAidBot.ipynb – В этом файле находятся скрипты для обучения модели и запуска чат-бота  
 [+] words.pkl – Это файл в котором мы храним объект слов Python, содержащий список нашего словаря.  
-[+] classes.pkl – The classes pickle file contains the list of categories. Этот файл содержит список категорий  
+[+] classes.pkl –Этот файл содержит список категорий  
 [+] chatbot_model.h5 – Это обученная модель, содержащая информацию о модели и весов нейронов.  
 
 Шаги для запуска   
